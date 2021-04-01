@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jared Cohen
+- 👀 I’m interested in Computer Engineering and Physics
+- 📫 How to reach me: email jaredscohen11@gmail.com
