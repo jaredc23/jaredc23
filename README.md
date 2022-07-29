@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Jared Cohen
-- 👀 I’m interested in Computer Engineering and Physics
+- 👀 I am a Computer Engineering major, minoring in Physics, with a strong background in hardware and software development. My primary interests include development of products relating to Electrical/Computer Engineering, Physics, and Computer Science.
 - 📫 How to reach me: email jaredscohen11@gmail.com
